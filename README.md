@@ -1,3 +1,8 @@
+This was a home assignment for Web developer position at Quest Software company.
+Project was created in Angular 10.
+Below are the informations on how to run the project.
+
+
 # Questassignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
