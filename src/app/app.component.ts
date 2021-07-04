@@ -48,8 +48,6 @@ export class AppComponent {
   displayFlights() {
     this.getFlights().subscribe((data: any) => {
       this.flights = data;
-      console.log(this.flights)
-      console.log(this.selectedFlight)
     })
   }
 
