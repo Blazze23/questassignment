@@ -1,0 +1,8 @@
+ul a li {
+    cursor: pointer;
+}
+
+td a {
+    cursor: pointer;
+    text-decoration: none;
+}
