@@ -1,4 +1,5 @@
 This was a home assignment for Web developer position at Quest Software company.
+Assignment can be read from the Home Assignment file.
 Project was created in Angular 10.
 Below are the informations on how to run the project.
 
